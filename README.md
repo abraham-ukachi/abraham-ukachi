@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m @abrahamukachi
 - 👀 I’m interested in building **P**rogressive **W**eb **A**pps w/ `Lit` & `Flutter`.
 - 💻 I'm working on a couple of school projects.
 - 🌱 I’m currently brushing up on my bash/zsh, git, etc...
