@@ -16,7 +16,7 @@
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=macOS&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Language-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
