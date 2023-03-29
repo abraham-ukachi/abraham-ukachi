@@ -1,5 +1,4 @@
 ### Hi there 👋
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=abraham-ukachi.abraham-ukachi&left_color=brown&right_color=black) 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
@@ -13,4 +12,17 @@
 - 😄 Pronouns: He/Him 😜.
 - ⚡ Fun fact: I've got some **salsa**, **kizomba**, **bachata** & **afro** dance moves 🕺 and I love to cook 🍕.
 
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=macOS&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
