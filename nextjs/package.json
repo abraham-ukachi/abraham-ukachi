@@ -1,5 +1,6 @@
 {
-  "name": "nextjs",
+  "name": "ab-nextjs-app",
+  "description": "The official Next.JS App of Abraham Ukachi",
   "version": "0.1.0",
   "private": true,
   "scripts": {
