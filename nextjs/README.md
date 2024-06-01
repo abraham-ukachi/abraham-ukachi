@@ -9,7 +9,8 @@
 
 # `ab-nextjs-app`
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+The official web app of [Abraham Ukachi](https://github.com/abraham-ukachi). This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and deployed using [Vercel](https://nextjs.org/docs) to [abraham-ukachi.vercel.app](https://abraham-ukachi.vercel.app) 💪🏽.
+
 
 ## Getting Started
 
